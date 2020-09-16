@@ -1,0 +1,11 @@
+{
+  "name": "typoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wilf312/typoon.git",
+  "author": "OkadaGenya <g.okada.wilf+github@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cli-ux": "^5.5.0"
+  }
+}
