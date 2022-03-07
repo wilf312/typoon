@@ -6,6 +6,6 @@
   "author": "OkadaGenya <g.okada.wilf+github@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cli-ux": "^5.5.0"
+    "cli-ux": "^6.0.0"
   }
 }
